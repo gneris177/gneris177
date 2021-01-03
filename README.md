@@ -9,7 +9,7 @@ Atualmente estou estudando Node.
 👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Node, Mongo e Stylus</strong>
 </p> <br> <br
 
-<p>Contaxto:</p>  
+<p>Contato:</p>  
 <p  align="left">
 <a  href="https://www.instagram.com/gneris1" alt="Instagram">
 <img  src="/imgs/insta.svg" /></a>
