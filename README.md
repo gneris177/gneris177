@@ -6,7 +6,7 @@ Curso Análise e Desenvolvimento de Sistemas.
 Atualmente estou estudando Node.
 </p>
 <p  align="left">
-👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Node, Mongo e Stylus</strong>
+👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactjs, PHP</strong>
 </p> <br> <br
 
 <p>Contato:</p>  
