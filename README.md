@@ -6,13 +6,14 @@ Curso Análise e Desenvolvimento de Sistemas.
 Atualmente estou estudando Node.
 </p>
 <p  align="left">
-👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactjs, PHP</strong>
+👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactjs e PHP</strong>
 </p> <br> <br
 
 <p>Contato:</p>  
 <p  align="left">
-<a  href="https://www.instagram.com/gneris1" alt="Instagram">
+<a  href="https://www.instagram.com/gneris177" alt="Instagram">
 <img  src="/imgs/insta.svg" /></a>
 
-<a  href="https://www.linkedin.com/in/gabriel-neris-0a22221a2/"  alt="Linkedin">
+<a  href="https://www.linkedin.com/in/gneris177
+"  alt="Linkedin">
 <img  src="/imgs/linkedin.svg" /></a>
