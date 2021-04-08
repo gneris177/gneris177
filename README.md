@@ -3,7 +3,7 @@
 <p  align="left">
 Olá meu nome é Gabriel, Sou <strong>Desenvolvedor Front-end Júnior</strong>. 
 Curso Análise e Desenvolvimento de Sistemas.
-Atualmente estou estudando Node.
+Atualmente estou estudando PHP no Back-End e Reactjs no Front-End.
 </p>
 <p  align="left">
 👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactjs e PHP</strong>
