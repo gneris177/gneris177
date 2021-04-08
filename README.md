@@ -14,6 +14,5 @@ Atualmente estou estudando Node.
 <a  href="https://www.instagram.com/gneris177" alt="Instagram">
 <img  src="/imgs/insta.svg" /></a>
 
-<a  href="https://www.linkedin.com/in/gneris177
-"  alt="Linkedin">
+<a  href="https://www.linkedin.com/in/gneris177"  alt="Linkedin">
 <img  src="/imgs/linkedin.svg" /></a>
