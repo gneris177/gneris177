@@ -6,7 +6,7 @@ Curso Análise e Desenvolvimento de Sistemas.
 Atualmente estou estudando Reactjs.
 </p>
 <p  align="left">
-👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactjs e PHP</strong>
+👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactjs, Node</strong>
 </p> <br> <br
 
 <p>Contato:</p>  
