@@ -2,11 +2,12 @@
 
 <p  align="left">
 Olá meu nome é Gabriel, Sou <strong>Desenvolvedor Front-end Júnior</strong>. 
-Curso Análise e Desenvolvimento de Sistemas.
-Atualmente estou estudando Reactjs.
+Curso Análise e Desenvolvimento de Sistemas. <br>
+  
+Atualmente estou focado em desenvolvimento Front-end, estudando as principias tecnologias do mercado, como Reactjs.
 </p>
 <p  align="left">
-👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactjs, Node</strong>
+👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactj e Node</strong>
 </p> <br> <br
 
 <p>Contato:</p>  
