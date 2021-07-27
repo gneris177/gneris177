@@ -12,8 +12,5 @@ Atualmente estou focado em desenvolvimento Front-end, estudando as principias te
 
 <p>Contato:</p>  
 <p  align="left">
-<a  href="https://www.instagram.com/gneris177" alt="Instagram">
-<img  src="/imgs/insta.svg" /></a>
-
 <a  href="https://www.linkedin.com/in/gneris177"  alt="Linkedin">
 <img  src="/imgs/linkedin.svg" /></a>
