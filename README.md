@@ -1,16 +1,11 @@
-<img  src="/imgs/computer-illustration.png"  min-width="400px"  max-width="400px"  width="400px"  align="right"  alt="Computador ilustração">
+# Gabriel Neris
 
-<p  align="left">
-Olá meu nome é Gabriel, Sou <strong>Desenvolvedor Front-end Júnior</strong>. 
-Curso Análise e Desenvolvimento de Sistemas. <br>
-  
-Atualmente estou focado em desenvolvimento Front-end, estudando as principias tecnologias do mercado, como Reactjs.
-</p>
-<p  align="left">
-👩🏻‍💻 Habilidades: <strong>HTML5, CSS3, JavaScript, Reactj e Node</strong>
-</p> <br> <br
+### Desenvolvedor Frontend
 
-<p>Contato:</p>  
-<p  align="left">
-<a  href="https://www.linkedin.com/in/gneris177"  alt="Linkedin">
-<img  src="/imgs/linkedin.svg" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-F2F0E3?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/gneris177/)](https://www.linkedin.com/in/gneris177/) 
+[![Gmail Badge](https://img.shields.io/badge/-gnerisdev@gmail.com-F2F0E3?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:gnerisdev@gmail.com)](mailto:gnerisdev@gmail.com)
+
+Olá! Sou Gabriel Neris, desenvolvedor web com foco em front-end, com conhecimentos em back-end e desenvolvimento mobile híbrido com React Native.
+Tenho princípios de UI/UX voltados à criação de interfaces funcionais, acessíveis e com boa usabilidade.
+
+Atuei como desenvolvedor web em projetos front-end utilizando Angular, Vue.js, HTML e CSS, com foco em interfaces responsivas e componentes reutilizáveis. Também tenho experiência no desenvolvimento back-end com NestJS, atuando na implementação de novas funcionalidades e manutenção. Além disso, participei de projetos mobile híbridos com React Native.
